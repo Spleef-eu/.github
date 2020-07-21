@@ -1,0 +1,10 @@
+{
+    "name": "Spleef Gradle CI Workflow",
+    "description": "Spleef Gradle CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Java",
+        "Kotlin",
+        "Gradle"
+    ]
+}
